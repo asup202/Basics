@@ -1,2 +1,2 @@
 # Basics
-A basic file for understanding concepts
+A basic file for understanding concepts.
